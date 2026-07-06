@@ -1,4 +1,4 @@
-# Retro Pacman Arcade Clone 
+# Retro Pacman Arcade Clone
 
 A standalone, desktop 2D Pacman game clone engineered in Java using the Swing framework and Abstract Window Toolkit (AWT). The project features real-time game loops, automated non-player character (NPC) behavior paths, matrix-level tile maps, and continuous background audio streams.
 
